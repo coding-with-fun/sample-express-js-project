@@ -1,1 +1,1 @@
-# sample-express-js-project
+# Sample Express JS Project
